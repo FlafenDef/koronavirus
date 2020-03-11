@@ -34,6 +34,3 @@ transform: translate(-50%, -50%) rotate(90deg);
 height:45px;
 }
 }
-.loading::before1{
-box-shadow:15px 15px #e77f67, -15px -15px #778beb;
-}
